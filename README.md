@@ -20,10 +20,10 @@
 
 ---
 
-## 🧩 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞 Ellen
+## 🧩 𝐅𝐮𝐧𝐜𝐢𝐨𝐧𝐞𝐬 𝐝𝐞 Itsuki
 
 <details>
-  <summary><b>🦈𝐓𝐨𝐝𝐨 𝐥𝐨 𝐪𝐮𝐞 𝐩𝐮𝐞𝐝𝐞 𝐡𝐚𝐜𝐞𝐫</b></summary>
+  <summary><b>👑𝐓𝐨𝐝𝐨 𝐥𝐨 𝐪𝐮𝐞 𝐩𝐮𝐞𝐝𝐞 𝐡𝐚𝐜𝐞𝐫</b></summary>
 
 - 👥 Gestión de grupos (bienvenidas, reglas, etc.)
 - 🛡️ Antidelete, antilink, antispam
@@ -60,7 +60,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/nevi-dev/Ellen-Joe-Bot-MD && cd Ellen-Joe-Bot-MD
+git clone https://github.com/Emmax08/і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD && cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD
 ```
 
 ```bash
@@ -88,7 +88,7 @@ href="https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file"><im
   <summary><b>🚀 Ver pasos para Cloud Shell</b></summary>
 
 ```bash
-git clone git clone https://github.com/nevi-dev/Ellen-Joe-Bot-MD && cd Ellen-Joe-Bot-MD
+git clone git clone https://github.com/https://https://files.catbox.moe/yp8imv.mp4/і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD && cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD
 ```
 
 ```bash
@@ -110,7 +110,7 @@ npm start
   <summary><b>🔁 Cómo reiniciarlo en Termux</b></summary>
 
 ```bash
-cd Ellen-Joe-Bot-MD && npm start
+cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD && npm start
 ```
 
 </details>
@@ -123,7 +123,7 @@ cd Ellen-Joe-Bot-MD && npm start
   <summary><b>🔑 edita el archivo y Agrega tu número como Owner</b></summary>
 
 ```bash
-cd Ellen-Joe-Bot-MD
+cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot-MD
 ```
 
 ```bash
@@ -141,35 +141,28 @@ nano settings.js
 <details>
   <summary><b>👥 Grupos Oficiales</b></summary>
 
-- 📢 [Canal Oficial](https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P)
-- 🌐 [Comunidad Global](https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR)
+- 📢 [Canal Oficial](https://whatsapp.com/channel/0029VbBfmjK9cDDcAL33Gi3x)
+- 🌐 [Comunidad Global](https://chat.whatsapp.com/HSNqUnIAFjV2XtpMxtpkRD?mode=ac_t)
 
 </details>
 
 <details>
   <summary><b>📞 Contacto</b></summary>
 
-- 📱 WhatsApp: 18096758983
+- 📱 WhatsApp: 7225305296 
 
 </details>
 
 ---
 
-## **`🩵 AKIRAX HOST🩵`**
-<a href="https://home.akirax.net"><img src="https://qu.ax/bZYxO.jpg" height="100px"></a>
-</details>
-</details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
 
-- **Dash:** [`Aquí`](https://home.akirax.net)
-- **Panel:** [`Aquí`](https://console.akirax.net)
 
 ---
 
-## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 Ellen Joe
+## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 і𝗍sᥙkі ᥒᥲkᥲᥒ᥆
 
 
-<a href="https://github.com/nevi-dev"><img src="https://github.com/nevi-dev.png" width="250" height="250" alt="Nevi"/></a>
+<a href="https://github.com/Emmax08"><img src="https://github.com/Emmax08.png" width="250" height="250" alt="Emmax"/></a>
 
 ---
 
