@@ -1,9 +1,11 @@
 
-<h1 align="center">👑--і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot MD--🌸</h1>
+<h1 align="center">👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ 🌸</h1>
 
 <p align="center">
-  <img src="https://github.com/nevi-dev/nevi-dev/blob/main/xd/ezgif.com-video-to-gif-converter.gif?raw=true" alt="Ellen Joe Bot MD Preview" />
+  <img src="https://files.catbox.moe/babt2u.gif" alt="і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot Preview" />
 </p>
+
+>
 
 ---
 
