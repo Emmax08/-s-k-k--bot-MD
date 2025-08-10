@@ -1,8 +1,8 @@
 
-<h1 align="center">👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ 🌸</h1>
+<h1 align="center">🪽--👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ MD--🍂</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/babt2u.gif" alt=" і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot Preview" />
+  <img src="https://github.com/Emmax08/Emmax08/blob/main/xd/ezgif.com-video-to-gif-converter.gif?raw=true" alt="mᥲríᥲ k᥆ȷᥙ᥆ MD Preview" />
 </p>
 
 >
