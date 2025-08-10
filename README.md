@@ -2,7 +2,7 @@
 <h1 align="center">🪽--👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ MD--🍂</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/babt2u.gif/?raw=true" alt="https://files.catbox.moe/babt2u.gif" />
+  <img "https://files.catbox.moe/babt2u.gif" />
 </p>
 
 >
